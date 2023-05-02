@@ -1,0 +1,35 @@
+.img-fluid {
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  margin: 20px;
+  border: 2px solid black;
+}
+.card {
+  background-color: rgb(238, 232, 232);
+  width: 300px;
+  height: 400px;
+  border-radius: 20px;
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+  box-shadow: 0 0 5px 5px rgb(218, 206, 206);
+}
+.card-content {
+  display: flex;
+  text-align: center;
+  margin: auto;
+}
+.carousel {
+  background-color: rgb(197, 197, 82);
+  margin: 20px;
+  border-radius: 10px;
+}
+/* .carousel-item{
+    display: flex;
+    display: inline-block;
+}
+.carousel-inner {
+  display: flex;
+  display: inline;
+} */

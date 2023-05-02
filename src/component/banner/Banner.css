@@ -1,0 +1,42 @@
+.banner-container{
+    display: flex;
+    width: 80%;
+    height: auto;
+    margin: auto;
+    margin-top: 10px; 
+    border-radius: 10px;
+    text-align: center;
+    /* padding: 10px; */
+    border: 1px solid black;
+    background: linear-gradient(90deg,#f0df20,#fff 65%)
+    
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
+.content{
+    margin: 10px;
+    margin-top: 50px;
+}
+.btn{
+    
+    width: 120px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    border-radius: 30px;
+    margin-top: 20px;
+    align-items: center;
+   
+
+}
+div h2 span {
+    font-size: 25px;
+
+}
+.btn:hover{
+    background-color: #f0df20;
+
+}

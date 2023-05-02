@@ -1,0 +1,18 @@
+.Footer{
+    display: flex;
+    background-color: black;
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+    color: white;
+    text-align: center;
+}
+.footer-icons a {
+    /* display: flex; */
+    display: inline;
+   justify-content: space-between;
+   margin: 10px;
+   text-decoration: none;
+   color: white;
+
+}
